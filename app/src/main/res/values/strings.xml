@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Robby Assessment</string>
+    <string name="app_logo">App Logo</string>
+    <string name="genre">Genre</string>
+    <string name="movie_assessment">Movie Assessment</string>
+    <string name="title_menu_item">Action</string>
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="list_movie">List Movie</string>
+    <string name="overview">Overview</string>
+    <string name="movie_trailer">Movie Trailer</string>
+    <string name="user_review">User Review</string>
+</resources>
